@@ -22,7 +22,7 @@ const bathingTime = "null";
 let whereDidSheSleep = ("my bed", "laundry basket", "on the computer desk");
 const whereShouldSheSleep = ("Cat's bed")
 
-// OBJET - Conjunto de datos, que se estructuran en un formato llave:valor
+// OBJECT - Conjunto de datos, que se estructuran en un formato llave:valor
 let pets = {
     name: "Ceniza",
     breed: "cat",
