@@ -7,8 +7,8 @@ let age = 4;
 let livesLeft = 8;
 
 // BOOLEAN (Booleano) - Valor vinculado al "verdadero" y "falso"
-const didSheKnowsThatILoveHer = true;
-const didSheWantsMeToLoveHer = false; 
+const doesSheKnowsThatILoveHer = true;
+const doesSheWantsMeToLoveHer = false; 
 
 // UNDEFINED - Valor que tiene una variable a la cual no se le ha asignado ningún valor (aún)
 let mealsSheNeedsInADay
