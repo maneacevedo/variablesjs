@@ -19,7 +19,7 @@ const mealsSheWantsInADay = "undefined";
 const bathingTime = "null";
 
 // ARRAY - Conjunto de datos. Cada lugar en el arreglo puede ser otro tipo de dato
-let whereDidSheSleep = ("my bed", "laundry basket", "in the computer desk");
+let whereDidSheSleep = ("my bed", "laundry basket", "on the computer desk");
 const whereShouldSheSleep = ("Cat's bed")
 
 // OBJET - Conjunto de datos, que se estructuran en un formato llave:valor
