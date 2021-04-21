@@ -25,6 +25,6 @@ const whereShouldSheSleep = ("Cat's bed")
 // OBJET - Conjunto de datos, que se estructuran en un formato llave:valor
 let pets = {
     name: "Ceniza",
-    race; "cat",
-    isItAPet: true
+    breed: "cat",
+    isItAPet: true;
 }
